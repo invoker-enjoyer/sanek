@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Кулинария</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Кулинария</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Плов</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Ингредиенты&#xA;300 г риса (желательно длиннозерного) 300 г свинины (кусочки или на кости) 2 луковицы 2 моркови 3 ст. ложки масла 1 ст. ложка куркумы 1 ч. ложка кмину 1 ч. ложка корицы Соль и перец по вкусу 4 стакана кипяченой воды Инструкции&#xA;Начните с подготовки мяса. Разогрейте масло в глубокой сковороде или казане. Обжаривайте мясо до золотистой корки. Пока мясо обжаривается, нарежьте лук и морковь мелкими кубиками. Выньте обжаренное мясо из сковороды и поставьте его в сторону.</description>
+    </item>
+  </channel>
+</rss>
